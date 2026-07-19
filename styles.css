@@ -1,0 +1,32 @@
+body{
+    background:linear-gradient(to right, #white, #FFD700)
+    font-family: sans-serif
+    margin:0
+    padding:none
+    text-align:center
+}
+
+header{
+    background: #004080;
+    color: blueviolet;
+    padding: 20px;
+}
+
+nav{
+    background: #004080;
+    padding: 10px;
+}
+
+nav a{
+    margin: 0 15px;
+    text-decoration: none;
+    color: beige;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 12px;
+    font-size: 2rem;
+}
+
