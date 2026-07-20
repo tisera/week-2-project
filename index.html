@@ -28,6 +28,20 @@
             <img src="https://i.pinimg.com/736x/07/21/b8/0721b8b590f52a65d2001d927e8646eb.jpg" alt="my photo">
         </div>
     </div>
+    
+    <div class="form-section">
+        <form class="contact-form">
+            <label for="name">Name</label>
+            <input type="text" id="name" name="name" required>
 
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="question">Question</label>
+            <textarea id="question" name="question" rows="5" required></textarea>
+
+            <button type="submit">Send</button>
+        </form class="contact-form" action="/submit-form"method="post">
+    </div>
 </body>
 </html>
