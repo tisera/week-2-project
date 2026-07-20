@@ -1,4 +1,4 @@
-# MY READD ME
+# MY READ ME
 #PHOTOGRAPHER PORTFOLIO WEBSITE
 # made by Natalie Bridget
 A sleek, responsive, and imge-focused portfolio websit designed to showcase professional photography. Built with performanceand aesthetic simplicity in mind to let the visuals take center stage
