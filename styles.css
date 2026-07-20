@@ -199,6 +199,7 @@ box-shadow:  0 14px 28px rgba(0, 0, 0, 0.18) ;
         display: grid;
         gap: 16px;
         text-align: left;
+        margin-top: 25px;
     }
 
     .contact-form h2 {
